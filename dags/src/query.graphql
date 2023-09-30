@@ -1,0 +1,69 @@
+query GetPopularTitles($country: Country!, $offerFilter: OfferFilter!, $platform: Platform!, $popularTitlesFilter: TitleFilter, $popularAfterCursor: String, 
+                       $popularTitlesSortBy: PopularTitlesSorting! = POPULAR,
+                       $first: Int! = 40, $language: Language!, $sortRandomSeed: Int! = 0) 
+{
+    popularTitles(
+        country: $country
+        filter: $popularTitlesFilter
+        after: $popularAfterCursor
+        sortBy: $popularTitlesSortBy
+        first: $first
+        sortRandomSeed: $sortRandomSeed
+    ) 
+    {
+        totalCount
+        
+        pageInfo {
+          endCursor
+          hasNextPage
+        }
+        
+        edges {
+            ...PopularTitleGraphql
+        }
+    }
+}
+
+fragment PopularTitleGraphql on PopularTitlesEdge {
+    cursor
+    node {
+        id
+        objectType                    
+        content(country: $country, language: $language) {
+            title
+            shortDescription
+            originalReleaseYear
+            ageCertification
+            runtime
+            fullPath
+            productionCountries
+
+            genres {
+                id
+                translation(language: $language)
+            }
+
+            scoring {
+                imdbScore
+                imdbVotes
+                tmdbPopularity
+                tmdbScore
+            }
+        }
+
+        offers(country: $country, platform: $platform, filter: $offerFilter)  {
+            id
+            standardWebURL
+            package {
+                packageId
+                clearName
+                slug
+                icon
+            }            
+        }
+
+        ... on Show {
+            totalSeasonCount
+        }        
+    }
+}

@@ -1,0 +1,198 @@
+code,streaming_name,lcase_name
+aae,A&E,a_e
+abc,ABC,abc
+ahc,AHCTV,ahctv
+azp,AMC Plus,amc_plus
+amo,AMC on Demand,amc_on_demand
+ark,AMC+ Roku Premium Channel,amc_roku_premium_channel
+awp,ARROW,arrow
+act,Acorn TV,acorn_tv
+aac,AcornTV Amazon Channel,acorntv_amazon_channel
+ads,Adult Swim,adult_swim
+alm,Alamo on Demand,alamo_on_demand
+amp,Amazon Prime Video,amazon_prime_video
+amz,Amazon Video,amazon_video
+apl,Animal Planet,animal_planet
+atp,Apple TV Plus,apple_tv_plus
+itu,Apple iTunes,apple_itunes
+asc,AsianCrush,asiancrush
+bca,BBC America,bbc_america
+bpc,Bet+ Amazon Channel,bet_amazon_channel
+bmg,Boomerang,boomerang
+abo,Boomerang Amazon Channel,boomerang_amazon_channel
+brv,Bravo TV,bravo_tv
+bbo,BritBox,britbox
+abb,BritBox Amazon Channel,britbox_amazon_channel
+bph,British Pathe TV,british_pathe_tv
+bhd,BroadwayHD,broadwayhd
+tcw,The CW,the_cw
+cws,CW Seed,cw_seed
+ctw,Cartoon Network,cartoon_network
+chf,Chai Flicks,chai_flicks
+acn,Cinemax Amazon Channel,cinemax_amazon_channel
+cla,Classix,classix
+com,Comedy Central,comedy_central
+coo,Cooking Channel,cooking_channel
+crk,Crackle,crackle
+crc,Criterion Channel,criterion_channel
+cru,Crunchyroll,crunchyroll
+cur,Curia,curia
+cts,Curiosity Stream,curiosity_stream
+drv,DIRECTV,directv
+diy,DIY Network,diy_network
+dsv,DOCSVILLE,docsville
+dkm,Darkmatter TV,darkmatter_tv
+dkk,Dekkoo,dekkoo
+dea,Destination America,destination_america
+dis,Discovery,discovery
+dil,Discovery Life,discovery_life
+dpu,Discovery Plus,discovery_plus
+adp,Discovery+ Amazon Channel,discovery_amazon_channel
+dnp,Disney Plus,disney_plus
+dnw,DisneyNOW,disneynow
+daf,DocAlliance Films,docalliance_films
+dog,Dogwoof On Demand,dogwoof_on_demand
+dvc,Dove Channel,dove_channel
+adw,DreamWorksTV Amazon Channel,dreamworkstv_amazon_channel
+aep,EPIX Amazon Channel,epix_amazon_channel
+epx,Epix,epix
+erk,Epix Roku Premium Channel,epix_roku_premium_channel
+ern,Eros Now,eros_now
+flr,FILMRISE,filmrise
+fxn,FXNow,fxnow
+fnd,Fandor,fandor
+afa,Fandor Amazon Channel,fandor_amazon_channel
+tfd,The Film Detective,the_film_detective
+fmp,Film Movement Plus,film_movement_plus
+fmz,Filmzie,filmzie
+fpm,Flix Premiere,flix_premiere
+fxf,FlixFling,flixfling
+fnw,Food Network,food_network
+fus,Fox,fox
+ffm,Freeform,freeform
+fuv,fuboTV,fubotv
+fmn,Funimation Now,funimation_now
+ply,Google Play Movies,google_play_movies
+gdc,GuideDoc,guidedoc
+hbm,HBO Max,hbo_max
+hmf,HBO Max Free,hbo_max_free
+hbn,HBO Now,hbo_now
+ahb,HBO Now Amazon Channel,hbo_now_amazon_channel
+hgt,HGTV,hgtv
+hmm,Hallmark Movies,hallmark_movies
+ahm,Hallmark Movies Now Amazon Channel,hallmark_movies_now_amazon_channel
+hrv,Here TV,here_tv
+hyh,Hi-YAH,hi-yah
+hdv,HiDive,hidive
+his,History,history
+hvt,History Vault,history_vault
+hoc,Hoichoi,hoichoi
+hop,Hoopla,hoopla
+htv,Hopster TV,hopster_tv
+hlu,Hulu,hulu
+aim,IMDB TV Amazon Channel,imdb_tv_amazon_channel
+ind,IndieFlix,indieflix
+inv,Investigation Discovery,investigation_discovery
+iqi,iQIYI,iqiyi
+knp,Kanopy,kanopy
+knw,Kino Now,kino_now
+koc,Kocowa,kocowa
+kor,KoreaOnDemand,koreaondemand
+lol,Laugh Out Loud,laugh_out_loud
+lft,Lifetime,lifetime
+lmc,Lifetime Movie Club,lifetime_movie_club
+ltv,Logo TV,logo_tv
+mtv,MTV,mtv
+ame,MZ Choice Amazon Channel,mz_choice_amazon_channel
+mgl,Magellan TV,magellan_tv
+mns,Magnolia Selects,magnolia_selects
+mst,Martha Stewart TV,martha_stewart_tv
+mxg,Max Go,max_go
+mtg,Metrograph,metrograph
+mhz,Mhz Choice,mhz_choice
+msf,Microsoft Store,microsoft_store
+mtr,Motor Trend,motor_trend
+mvt,MovieSaints,moviesaints
+mbi,Mubi,mubi
+amu,Mubi Amazon Channel,mubi_amazon_channel
+mot,MyOutdoorTV,myoutdoortv
+nbc,NBC,nbc
+nfx,Netflix,netflix
+nfk,Netflix Kids,netflix_kids
+anh,Nickhits Amazon Channel,nickhits_amazon_channel
+nfp,Night Flight Plus,night_flight_plus
+ang,Noggin Amazon Channel,noggin_amazon_channel
+own,The Oprah Winfrey Network,the_oprah_winfrey_network
+ovi,OVID,ovid
+oxy,OXYGEN,oxygen
+pst,Paramount+ Showtime,paramount_showtime
+pbs,PBS,pbs
+apk,PBS Kids Amazon Channel,pbs_kids_amazon_channel
+apm,PBS Masterpiece Amazon Channel,pbs_masterpiece_amazon_channel
+pfx,Pantaflix,pantaflix
+pty,Pantaya,pantaya
+apa,Pantaya Amazon Channel,pantaya_amazon_channel
+pnw,Paramount Network,paramount_network
+pmp,Paramount Plus,paramount_plus
+app,Paramount+ Amazon Channel,paramount_amazon_channel
+prk,Paramount+ Roku Premium Channel,paramount_roku_premium_channel
+pct,Peacock,peacock
+pcp,Peacock Premium,peacock_premium
+plx,Plex,plex
+ptv,Pluto TV,pluto_tv
+pcf,Popcornflix,popcornflix
+pdm,Public Domain Movies,public_domain_movies
+pux,Pure Flix,pure_flix
+vik,Rakuten Viki,rakuten_viki
+rlz,realeyz,realeyz
+rbx,Redbox,redbox
+rtc,Retrocrush,retrocrush
+rvy,Revry,revry
+rkc,The Roku Channel,the_roku_channel
+rst,Rooster Teeth,rooster_teeth
+sci,Science Channel,science_channel
+scb,Screambox,screambox
+asb,Screambox Amazon Channel,screambox_amazon_channel
+sft,Shout! Factory TV,shout!_factory_tv
+sho,Showtime,showtime
+ash,Showtime Amazon Channel,showtime_amazon_channel
+srk,Showtime Roku Premium Channel,showtime_roku_premium_channel
+shd,Shudder,shudder
+asd,Shudder Amazon Channel,shudder_amazon_channel
+stv,Sling TV,sling_tv
+ssc,Smithsonian Channel,smithsonian_channel
+sfx,Spamflix,spamflix
+sod,Spectrum On Demand,spectrum_on_demand
+stz,Starz,starz
+ast,Starz Play Amazon Channel,starz_play_amazon_channel
+sru,Starz Roku Premium Channel,starz_roku_premium_channel
+snx,Sun Nxt,sun_nxt
+sdn,Sundance Now,sundance_now
+asn,Sundance Now Amazon Channel,sundance_now_amazon_channel
+sfy,Syfy,syfy
+tus,TBS,tbs
+tcm,TCM,tcm
+tlc,TLC,tlc
+tnt,TNT,tnt
+tvl,TV Land,tv_land
+tpc,Topic,topic
+tra,Travel Channel,travel_channel
+tru,tru TV,tru_tv
+trs,True Story,true_story
+tbv,Tubi TV,tubi_tv
+usn,USA Network,usa_network
+umc,Urban Movie Channel,urban_movie_channel
+vho,VH1,vh1
+vix,VIX,vix
+vrv,VRV,vrv
+vuf,VUDU Free,vudu_free
+vtv,Vice TV,vice_tv
+avt,Viewster Amazon Channel,viewster_amazon_channel
+vdu,Vudu,vudu
+wow,WOW Presents Plus,wow_presents_plus
+wwe,WWE Network,wwe_network
+wet,WeTV,wetv
+yot,YouTube,youtube
+yfr,YouTube Free,youtube_free
+ytr,YouTube Premium,youtube_premium
+ytv,Yupp TV,yupp_tv
