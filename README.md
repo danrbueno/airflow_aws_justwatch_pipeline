@@ -22,4 +22,7 @@ The pipeline will follow the steps below:
             The Glue Job separates all these productions countries from raw data 
             and transform them into parquets that will be read from a Redshift database.
 5. Transform these parquet files into a Redshift database.
-   
+
+![Diagram](https://github.com/danrbueno/airflow_aws_justwatch_pipeline/assets/74033549/f68174a8-1493-413f-9667-d5f6278fe9dd)
+
+
